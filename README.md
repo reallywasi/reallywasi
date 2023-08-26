@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link](https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link)
 
-- ⚡ Fun fact **Year 2 CS student, MERN stack magician!**
+- ⚡  **Year 2 CS student, MERN stack magician!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
