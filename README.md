@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasi</h1>
-<h3 align="center">| An aspiring software engineer | Web3 aficionado |</h3>
+<h3 align="center">| A full Stack Developer | Freelancer | Web3 aficionado |</h3>
 <!-- <img align="right"  width="400" src="https://cdn.dribbble.com/users/116207...">
  -->
 
