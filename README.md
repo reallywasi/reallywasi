@@ -9,7 +9,7 @@
 
 - My Portfolio : https://reallywasi.github.io/Portfolio_Website/
   
-- 🌱 I’m currently learning **Django, Machine Learning , Data Structures and Algorithms**
+- 🌱 I’m currently learning **Java SpringBoot, AWS, Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web developement Projects**
 
