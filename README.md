@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&" alt="reallywasi" /></p>
 
+[![reallywasi's GitHub | Stats](https://stats.quine.sh/reallywasi/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=reallywasi)
+[![reallywasi's GitHub | Languages Over Time](https://stats.quine.sh/reallywasi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reallywasi)
