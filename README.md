@@ -3,7 +3,6 @@
 <!-- <img align="right"  width="400" src="https://cdn.dribbble.com/users/116207...">
  -->
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="reallywasi" width="500px" /> </p>
 
@@ -20,6 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link](https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link)
 
 - ⚡  **Year 2 CS student, MERN stack magician!**
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallywasi&show_icons=true&locale=en&layout=compact" alt="reallywasi" /></p>
 
