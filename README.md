@@ -19,15 +19,18 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link](https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link)
 
 - ⚡  **Year 2 CS student, MERN stack magician!**
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallywasi&show_icons=true&locale=en&layout=compact" alt="reallywasi" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reallywasi&show_icons=true&locale=en" alt="reallywasi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reallywasi&show_icons=true&locale=en&layout=compact" alt="reallywasi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&" alt="reallywasi" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=reallywasi&show_icons=true&locale=en" alt="reallywasi" /></p>
 
-[![reallywasi's GitHub | Stats](https://stats.quine.sh/reallywasi/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=reallywasi)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&" alt="reallywasi" /></p>
+
 [![reallywasi's GitHub | Languages Over Time](https://stats.quine.sh/reallywasi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reallywasi)
 
 [![](https://visitcount.itsvg.in/api?id=reallywasi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
