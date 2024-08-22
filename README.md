@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **conntect with me through reallywasi@gmail.com or through linkedin. I'm always ready for tech talks and for collaboration on projects.**
  
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link](https://drive.google.com/file/d/1Z7kLpQPWTpLlWNXOhAR0-8oFwB1sua16/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1hYTLQlB1umQb5l-k-wHIs3mthLVm3XYU/view?usp=sharing
 
 - ⚡  **Year 2 CS student, MERN stack magician!**
 
