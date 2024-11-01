@@ -47,6 +47,10 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&" alt="reallywasi" /></p>
 
+## 📊 GitHub Activity Graph
+[![reallywasi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reallywasi&bg_color=e2e9e4&color=9e4c98&line=0b5106&point=0d0d0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![reallywasi's GitHub | Languages Over Time](https://stats.quine.sh/reallywasi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reallywasi)
 
 [![](https://visitcount.itsvg.in/api?id=reallywasi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
