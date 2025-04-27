@@ -8,17 +8,16 @@
 
 - My Portfolio : https://portfoliofr-one.vercel.app/
   
-- 🌱 I’m currently learning **Java SpringBoot, AWS, Data Structures and Algorithms**
+-  I’m currently learning **Java SpringBoot, AWS, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Web developement Projects**
+-  I’m looking to collaborate on **Web developement Projects**
 
-- 💬 Ask me about **MERN Stack**
+-  Ask me about **Backend and Devops**
 
-- 📫 How to reach me **conntect with me through reallywasi@gmail.com or through linkedin. I'm always ready for tech talks and for collaboration on projects.**
+-  How to reach me **conntect with me through reallywasi@gmail.com or through linkedin. I'm always ready for tech talks and for collaboration on projects.**
  
-- 📄 Know about my experiences https://drive.google.com/file/d/1hYTLQlB1umQb5l-k-wHIs3mthLVm3XYU/view?usp=sharing
+-  Know about my experiences https://drive.google.com/file/d/1hYTLQlB1umQb5l-k-wHIs3mthLVm3XYU/view?usp=sharing
 
-- ⚡  **Year 2 CS student, MERN stack magician!**
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
