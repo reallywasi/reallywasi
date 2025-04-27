@@ -20,56 +20,56 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<table style="width: 100vh; border-spacing: 20px; " align="center">
+<table align="center" style="width: 100%; border-spacing: 20px; text-align: center; font-family: Arial, sans-serif;">
   <tr>
-    <td valign="top" width="50%">
-      <h3>Frontend</h3>
-      <div align="center">
+    <td valign="top" width="25%">
+      <h3 align="center">Frontend</h3>
+      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
         <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" alt="React" height="50" /></a>
         <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" alt="Next.js" height="50" /></a>
         <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
         <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sass.svg" alt="SCSS" height="50" /></a>
       </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>Backend</h3>
-      <div align="center">
+    <td valign="top" width="25%">
+      <h3 align="center">Backend</h3>
+      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
         <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" alt="Node.js" height="50" /></a>
         <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" alt="Spring Boot" height="50" /></a>
         <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" alt="Express.js" height="50" /></a>
+        <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postman.svg" alt="Postman" height="50" /></a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Database</h3>
-      <div align="center">
+    <td valign="top" width="25%">
+      <h3 align="center">Database</h3>
+      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;" align="center">
         <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" height="50" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" alt="PostgreSQL" height="50" /></a>
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg" alt="MongoDB" height="50" /></a>
         <a href="https://www.sql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" alt="SQL" height="50" /></a>
       </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>DevOps & AWS</h3>
-      <div align="center">
+    <td valign="top" width="25%">
+      <h3 align="center">DevOps & AWS</h3>
+      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
         <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" height="50" /></a>
         <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazons3.svg" alt="AWS S3" height="50" /></a>
         <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonec2.svg" alt="AWS EC2" height="50" /></a>
         <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" alt="Kubernetes" height="50" /></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" height="50" /></a>
         <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jenkins.svg" alt="Jenkins" height="50" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" valign="top">
+      <h3 align="center">Programming Languages</h3>
+      <div class="icon-container" style="display: flex; justify-content: center; gap: 20; flex-wrap: wrap;" align="center">
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" height="50" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="50" /></a>
+        <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" alt="C++" height="50" /></a>
+        <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" alt="Java" height="50" /></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" height="50" /></a>
       </div>
     </td>
   </tr>
@@ -83,20 +83,8 @@
 
 
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-</div>
+
+
 
 <div align="center">
 
