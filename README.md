@@ -6,18 +6,80 @@
 
 <p align="center"> <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="reallywasi" width="500px" /> </p>
 
-- My Portfolio : https://portfoliofr-one.vercel.app/
-  
--  I’m currently learning **Java SpringBoot, AWS, Data Structures and Algorithms**
+```json
 
--  I’m looking to collaborate on **Web developement Projects**
+{
+	"aboutMe": 
+		"I’m a passionate full-stack developer with expertise in the MERN stack, Next.js, and PostgreSQL. \n" 
+		"I build scalable web applications with a focus on delivering seamless user experiences and robust back-end systems. \n" 
+		"I’m always learning, always exploring new tech trends, and always ready to dive into new projects. \n" 
+		"Whether working solo or in a team, my goal is to deliver impactful solutions that push the boundaries of what's possible.",
+	"lookingForCollaboration": "Web Development Projects (The more complex, the better!)",
+	"areasOfExpertise": [
+		"Full Stack Development (MERN, Next.js, PostgreSQL)",
+		"AI & Machine Learning (Yes, I dabble in the future!)",
+		"Scalable Web Applications",
+		"Seamless User Experiences",
+		"Backend Systems (The ones that don't break!)"
+	],
+	"alwaysAvailableFor": [
+		"Tech Talks (I promise, I’m more entertaining than your last Netflix binge!)",
+		"Project Collaboration (If it’s got code, I’m in!)"
+	],
+	"contact": {
+		"email": "reallywasi@gmail.com"
+	},
+	"github": "https://github.com/reallywasi",
+	"currentlyLearning": [
+		"Java SpringBoot",
+		"AWS",
+		"Data Structures and Algorithms"
+	],
+	"certifications": [
+		{
+			"title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+			"issuer": "Amazon Web Services (AWS)",
+			"dateIssued": "Feb 2025",
+			"skills": [
+				"Amazon EC2",
+				"Amazon S3",
+				"AWS Lambda",
+				"IAM",
+				"VPC",
+				"RDS",
+				"DynamoDB",
+				"CloudFormation",
+				"CloudWatch"
+			]
+		},
+		{
+			"title": "AWS Academy Graduate - AWS Academy Cloud Web Application Builder",
+			"issuer": "Amazon Web Services (AWS)",
+			"dateIssued": "Feb 2025",
+			"skills": [
+				"Amazon Web Services (AWS)",
+				"Cloud Computing"
+			]
+		},
+		{
+			"title": "UPES - Node.js",
+			"issuer": "GUVI Geek Networks, IITM Research Park",
+			"dateIssued": "Feb 2025",
+			"skills": [
+				"Node.js"
+			]
+		}
+	],
+	"leetcodeStats": {
+		"problemsSolved": 370,
+		"maxRating": 1570
+	}
+}
 
--  Ask me about **Backend and Devops**
 
--  How to reach me **conntect with me through reallywasi@gmail.com or through linkedin. I'm always ready for tech talks and for collaboration on projects.**
- 
--  Know about my experiences https://drive.google.com/file/d/1hYTLQlB1umQb5l-k-wHIs3mthLVm3XYU/view?usp=sharing
 
+
+```
 
 
 <table align="center" style="width: 100%; border-spacing: 20px; text-align: center; font-family: Arial, sans-serif;">
@@ -98,12 +160,8 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&" alt="reallywasi" /></p>
 
-## 📊 GitHub Activity Graph
 [![reallywasi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reallywasi&bg_color=e2e9e4&color=9e4c98&line=0b5106&point=0d0d0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![reallywasi's GitHub | Languages Over Time](https://stats.quine.sh/reallywasi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reallywasi)
-
-[![](https://visitcount.itsvg.in/api?id=reallywasi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
