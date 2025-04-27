@@ -29,7 +29,14 @@
 	"contact": {
 		"email": "reallywasi@gmail.com"
 	},
-	"github": "https://github.com/reallywasi",
+	"hashnode": {
+		"username": "reallywasi",
+		"link": "https://reallywasi.hashnode.dev",
+		"bio": 
+			"I write tech stuff on Hashnode, where code meets creativity. \n" 
+			"From debugging nightmares to coding triumphs, it’s all here with a sprinkle of humor!"
+                  }
+
 	"currentlyLearning": [
 		"Java SpringBoot",
 		"AWS",
@@ -63,7 +70,7 @@
 		},
 		{
 			"title": "UPES - Node.js",
-			"issuer": "GUVI Geek Networks, IITM Research Park",
+			"issuer": "GUVI ",
 			"dateIssued": "Feb 2025",
 			"skills": [
 				"Node.js"
@@ -71,6 +78,7 @@
 		}
 	],
 	"leetcodeStats": {
+                 "username": "reallywasi"
 		"problemsSolved": 370,
 		"maxRating": 1570
 	}
