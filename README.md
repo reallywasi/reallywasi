@@ -4,7 +4,7 @@
  -->
 
 
-<p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="reallywasi" width="500px" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="reallywasi" width="500px" /> </p>
 
 - My Portfolio : https://portfoliofr-one.vercel.app/
   
@@ -17,6 +17,70 @@
 -  How to reach me **conntect with me through reallywasi@gmail.com or through linkedin. I'm always ready for tech talks and for collaboration on projects.**
  
 -  Know about my experiences https://drive.google.com/file/d/1hYTLQlB1umQb5l-k-wHIs3mthLVm3XYU/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table style="width: 100vh; border-spacing: 20px; " align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend</h3>
+      <div align="center">
+        <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" alt="React" height="50" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" alt="Next.js" height="50" /></a>
+        <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+        <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sass.svg" alt="SCSS" height="50" /></a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Backend</h3>
+      <div align="center">
+        <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" alt="Node.js" height="50" /></a>
+        <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" alt="Spring Boot" height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" alt="Express.js" height="50" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Database</h3>
+      <div align="center">
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" height="50" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" alt="PostgreSQL" height="50" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg" alt="MongoDB" height="50" /></a>
+        <a href="https://www.sql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" alt="SQL" height="50" /></a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>DevOps & AWS</h3>
+      <div align="center">
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" height="50" /></a>
+        <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazons3.svg" alt="AWS S3" height="50" /></a>
+        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonec2.svg" alt="AWS EC2" height="50" /></a>
+        <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" alt="Kubernetes" height="50" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" height="50" /></a>
+        <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jenkins.svg" alt="Jenkins" height="50" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 
 <div align="center">
