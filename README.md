@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasi</h1>
-<h3 align="center">| A full Stack Developer | Freelancer| Problem Solver |</h3>
+<h3 align="center">| A full Stack Developer | Freelancer | Problem Solver |</h3>
 <p align="center">
   <a href="https://hashnode.com/@reallywasi" target="_blank"><img src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" height="50" /></a>
   <a href="https://www.leetcode.com/reallywasi" target="_blank"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="50" /></a>
