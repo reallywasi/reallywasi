@@ -167,13 +167,34 @@
 
 
 
+<table align="center" width="70%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="40%" style="padding-right: 20px;">
+      <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="text-decoration:none;">
+        <img src="https://github-profile-trophy.vercel.app/?username=reallywasi&theme=darkhub&row=2&column=4" alt="reallywasi trophies" style="width: 100%; max-width: 400px; border-radius: 0;" />
+      </a>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://i.ibb.co/hFWhJH3K/Screenshot-2025-05-17-022900.png" alt="reallywasi" style="width: 100%; max-width: 200px; border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 
 <div align="center">
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
