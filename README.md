@@ -201,16 +201,18 @@
 
 
 </div>
-<h2 align="center"> LeetCode Stats</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<h2 align="center">LeetCode Stats</h2>
+
+<p align="center">
   <a href="https://leetcode.com/reallywasi/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/reallywasi?theme=dark&ext=contest" alt="reallywasi-contest" height="300"/>
+    <img src="https://leetcard.jacoblin.cool/reallywasi?theme=dark&ext=contest" alt="reallywasi-contest" width="48%" />
   </a>
   <a href="https://leetcode.com/reallywasi/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/reallywasi?theme=dark&ext=heatmap" alt="reallywasi-heatmap" height="300"/>
+    <img src="https://leetcard.jacoblin.cool/reallywasi?theme=dark&ext=heatmap" alt="reallywasi-heatmap" width="48%" />
   </a>
-</div>
+</p>
 
 
 
