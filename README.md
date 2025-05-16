@@ -175,14 +175,50 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reallywasi&show_icons=true&locale=en&layout=compact" alt="reallywasi" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=reallywasi&show_icons=true&locale=en" alt="reallywasi" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&" alt="reallywasi" /></p>
+
+
+<h2 align="center"> GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/reallywasi" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=reallywasi&show_icons=true&theme=dark&locale=en" alt="reallywasi GitHub Stats" height="180" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/reallywasi" target="_blank" style="text-decoration:none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&theme=dark" alt="reallywasi GitHub Streak" height="180" />
+  </a>
+</p>
+
+
+
+
+
 
 [![reallywasi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reallywasi&bg_color=e2e9e4&color=9e4c98&line=0b5106&point=0d0d0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 </div>
+<h2 align="center"> LeetCode Stats</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://leetcode.com/reallywasi/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/reallywasi?theme=dark&ext=contest" alt="reallywasi-contest" height="300"/>
+  </a>
+  <a href="https://leetcode.com/reallywasi/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/reallywasi?theme=dark&ext=heatmap" alt="reallywasi-heatmap" height="300"/>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
