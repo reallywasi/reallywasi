@@ -179,15 +179,14 @@
 
 
 
-<h2 align="center"> GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/reallywasi" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=reallywasi&show_icons=true&theme=dark&locale=en" alt="reallywasi GitHub Stats" height="180" />
+  <a href="https://github.com/reallywasi" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=reallywasi&show_icons=true&theme=dark&locale=en" alt="reallywasi GitHub Stats" width="48%" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/reallywasi" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&theme=dark" alt="reallywasi GitHub Streak" height="180" />
+  <a href="https://github.com/reallywasi" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reallywasi&theme=dark" alt="reallywasi GitHub Streak" width="48%" />
   </a>
 </p>
 
