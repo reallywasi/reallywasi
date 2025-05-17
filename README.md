@@ -35,9 +35,7 @@
 		"Tech Talks (I promise, I’m more entertaining than your last Netflix binge!)",
 		"Project Collaboration (If it’s got code, I’m in!)"
 	],
-	"contact": {
-		"email": "reallywasi@gmail.com"
-	},
+	
 	"hashnode": {
 		"username": "reallywasi",
 		"link": "https://reallywasi.hashnode.dev",
@@ -45,57 +43,7 @@
 			"I write tech stuff on Hashnode, where code meets creativity. \n" 
 			"From debugging nightmares to coding triumphs, it’s all here with a sprinkle of humor!"
                   }
-
-	"currentlyLearning": [
-		"Java SpringBoot",
-		"AWS",
-		"Data Structures and Algorithms"
-	],
-	"certifications": [
-		{
-			"title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
-			"issuer": "Amazon Web Services (AWS)",
-			"dateIssued": "Feb 2025",
-			"skills": [
-				"Amazon EC2",
-				"Amazon S3",
-				"AWS Lambda",
-				"IAM",
-				"VPC",
-				"RDS",
-				"DynamoDB",
-				"CloudFormation",
-				"CloudWatch"
-			]
-		},
-		{
-			"title": "AWS Academy Graduate - AWS Academy Cloud Web Application Builder",
-			"issuer": "Amazon Web Services (AWS)",
-			"dateIssued": "Feb 2025",
-			"skills": [
-				"Amazon Web Services (AWS)",
-				"Cloud Computing"
-			]
-		},
-		{
-			"title": "UPES - Node.js",
-			"issuer": "GUVI ",
-			"dateIssued": "Feb 2025",
-			"skills": [
-				"Node.js"
-			]
-		}
-	],
-	"leetcodeStats": {
-                 "username": "reallywasi"
-		"problemsSolved": 370,
-		"maxRating": 1570
-	}
 }
-
-
-
-
 ```
 
 
@@ -103,56 +51,56 @@
 
 
 
-<table align="center" style="width: 100%; border-spacing: 20px; text-align: center; font-family: Arial, sans-serif;">
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="25%">
-      <h3 align="center">Frontend</h3>
-      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" alt="React" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" alt="Next.js" height="50" /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-        <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sass.svg" alt="SCSS" height="50" /></a>
+    <td width="25%" valign="top">
+      <h3 align="center">🌐 Frontend</h3>
+      <div align="center">
+        <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30" /></a> 
+        <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="30" /></a> 
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="30" /></a> 
+        <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" height="30" /></a>
       </div>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">Backend</h3>
-      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" alt="Node.js" height="50" /></a>
-        <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" alt="Spring Boot" height="50" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" alt="Express.js" height="50" /></a>
-        <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postman.svg" alt="Postman" height="50" /></a>
+    <td width="25%" valign="top">
+      <h3 align="center">⚙️ Backend</h3>
+      <div align="center">
+        <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30" /></a> 
+        <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="30" /></a> 
+        <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="30" /></a> 
+        <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30" /></a>
       </div>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">Database</h3>
-      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;" align="center">
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" height="50" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" alt="PostgreSQL" height="50" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg" alt="MongoDB" height="50" /></a>
-        <a href="https://www.sql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" alt="SQL" height="50" /></a>
+    <td width="25%" valign="top">
+      <h3 align="center">🗄️ Database</h3>
+      <div align="center">
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" /></a> 
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" /></a> 
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30" /></a> 
+        <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="30" /></a>
       </div>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">DevOps & AWS</h3>
-      <div class="icon-container" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" height="50" /></a>
-        <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazons3.svg" alt="AWS S3" height="50" /></a>
-        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonec2.svg" alt="AWS EC2" height="50" /></a>
-        <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" alt="Kubernetes" height="50" /></a>
-        <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" height="50" /></a>
-        <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jenkins.svg" alt="Jenkins" height="50" /></a>
+    <td width="25%" valign="top">
+      <h3 align="center">☁️ DevOps & AWS</h3>
+      <div align="center">
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="30" /></a> 
+        <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" height="30" /></a> 
+        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" height="30" /></a> 
+        <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="30" /></a> 
+        <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30" /></a> 
+        <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30" /></a>
       </div>
     </td>
   </tr>
   <tr>
     <td colspan="4" valign="top">
-      <h3 align="center">Programming Languages</h3>
-      <div class="icon-container" style="display: flex; justify-content: center; gap: 20; flex-wrap: wrap;" align="center">
-        <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" height="50" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="50" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" alt="C++" height="50" /></a>
-        <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" alt="Java" height="50" /></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" height="50" /></a>
+      <h3 align="center">💻 Programming Languages</h3>
+      <div align="center">
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" /></a> 
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30" /></a> 
+        <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="30" /></a> 
+        <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30" /></a> 
+        <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" /></a>
       </div>
     </td>
   </tr>
